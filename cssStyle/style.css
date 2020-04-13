@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css?family=Pacifico&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Fredoka+One&display=swap');
+
+body{
+    font-family: Times New Roman;
+    padding: 10px; /*É um espaçamento*/
+    background:#f0f8ff;
+}
+h4{
+   font-family: 'Pacifico', cursive;
+   font-size: 20px;
+   color: #000;    
+}
+h1{
+    font-family: 'Pacifico';
+   font-size: 40px;
+   color: #fff;
+}
+h2{
+   font-family: 'Pacifico';
+   font-size: 30px;
+   color: #000;
+}
+h5{
+    font-family: 'Pacifico';
+    font-size: 25px;
+}
+p{
+    font-family: Times New Roman;
+    font-size:20px;
+}
